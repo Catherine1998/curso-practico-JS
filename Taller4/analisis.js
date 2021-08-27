@@ -66,6 +66,11 @@ const dif = salarioMayor - salarioMenor;
 return dif; 
 }
 
+// suma de bonificación 
+
+
+
+
 
 console.log(
   medianaGeneralCol, 
